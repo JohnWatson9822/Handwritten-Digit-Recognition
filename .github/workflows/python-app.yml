@@ -30,4 +30,4 @@ jobs:
     - name: Run Python program
       run: |
         python main.py
-        continue-on-error: false
+      continue-on-error: false
